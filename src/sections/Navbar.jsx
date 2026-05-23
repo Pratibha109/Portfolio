@@ -1,7 +1,7 @@
-function Navebar() {
+function Navbar() {
     return(
-        <nav className="flex justify-between items-center px-8 py-4 border-b border-black bg-amber-50">
-            <h1>Pratibha</h1>
+        <nav className="flex flex-wrap justify-between items-center px-8 py-4 border-b border-black bg-amber-50">
+            <h1 className="font-bold">Pratibha</h1>
 
             <ul className="flex gap-6">
                 <li>
@@ -24,4 +24,4 @@ function Navebar() {
     )
 }
 
-export default Navebar
+export default Navbar

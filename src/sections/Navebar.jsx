@@ -1,0 +1,27 @@
+function Navebar() {
+    return(
+        <nav className="flex justify-between items-center px-8 py-4 border-b border-black bg-amber-50">
+            <h1>Pratibha</h1>
+
+            <ul className="flex gap-6">
+                <li>
+                    <a href="#About">About</a>
+                </li>
+
+                <li>
+                    <a href="#Skills">Skills</a>
+                </li>
+
+                <li>
+                    <a href="#Projects">Projects</a>
+                </li>
+
+                <li>
+                    <a href="#Contact">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    )
+}
+
+export default Navebar

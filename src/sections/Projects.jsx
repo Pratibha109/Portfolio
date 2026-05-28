@@ -1,6 +1,6 @@
 function Projects() {
     return(
-        <section id="Projects" className=" px-8 py-18 bg-amber-50 ">
+        <section id="Projects" className=" px-8 py-18  ">
      {/* </section>   <section className="min-h-screen px-8 py-20 bg-amber-50 "> */}
             <h2 className="text-4xl font-bold mb-4">Projects</h2>
 

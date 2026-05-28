@@ -1,6 +1,6 @@
 function About() {
     return(
-        <section id="About" className="flex flex-col justify-center text-center px-4 py-4 bg-amber-50">
+        <section id="About" className="flex flex-col justify-center text-center px-4 py-4 ">
             <p className="mt-4 text-xl">
                 I'm an MCA graduate and Full Stack Developer with experience in building modern web applications using the MERN stack.
 
